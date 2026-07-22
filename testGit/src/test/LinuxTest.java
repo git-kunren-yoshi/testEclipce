@@ -4,5 +4,6 @@ public class LinuxTest {
 	public static void main(String[] args) {
 		System.out.println("Hello Linux");
 		System.out.println("Good Morning Linux");
+		System.out.println("Good Night Linux");
 	}
 }
